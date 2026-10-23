@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CT_Test_Account_VR</fullName>
+    <active>true</active>
+    <description>v1</description>
+    <errorConditionFormula>LEN(Name) &gt; 250</errorConditionFormula>
+    <errorMessage>CT test v1</errorMessage>
+</ValidationRule>
