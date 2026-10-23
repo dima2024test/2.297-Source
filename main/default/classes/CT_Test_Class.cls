@@ -1,0 +1,1 @@
+public with sharing class CT_Test_Class { public static String hello() { return 'v1'; } }

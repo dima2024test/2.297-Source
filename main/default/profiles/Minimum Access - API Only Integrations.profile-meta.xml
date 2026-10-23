@@ -151,6 +151,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>CT_Test_Class</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DemoScenariosBatch</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -8959,6 +8963,10 @@
     <layoutAssignments>
         <layout>Triton_Error_Data__c-Triton Error Data Layout</layout>
     </layoutAssignments>
+    <pageAccesses>
+        <apexPage>CT_Test_Page</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
     <pageAccesses>
         <apexPage>pharos__Admin</apexPage>
         <enabled>false</enabled>

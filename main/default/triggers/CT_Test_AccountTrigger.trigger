@@ -1,0 +1,1 @@
+trigger CT_Test_AccountTrigger on Account (before insert) { System.debug('v1'); }

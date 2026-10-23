@@ -151,6 +151,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>CT_Test_Class</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DemoScenariosBatch</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -11365,6 +11369,10 @@
         <object>pharos__Trace_Schedule__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <pageAccesses>
+        <apexPage>CT_Test_Page</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <pageAccesses>
         <apexPage>pharos__Admin</apexPage>
         <enabled>true</enabled>
