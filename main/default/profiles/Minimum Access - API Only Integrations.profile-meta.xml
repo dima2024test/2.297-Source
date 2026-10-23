@@ -2024,6 +2024,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.CT_Test_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.Description</field>
         <readable>false</readable>
@@ -2792,6 +2797,11 @@
         <editable>false</editable>
         <field>BusinessBrand.ParentId</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>CT_Test_Object__c.CT_Test_Field__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -8934,6 +8944,9 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>CT_Test_Object__c-CT Test Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ContactPointOttSvc-Contact Point OTT Service Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -9114,6 +9127,10 @@
         <recordType>pharos__Log__c.pharos__Warning</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>CT_Test_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Pharos_Error_Generator</tab>
         <visibility>Hidden</visibility>
