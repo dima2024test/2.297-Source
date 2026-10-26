@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalClientApplication>QA_ECA_No_OAuth</externalClientApplication>
+    <isEnabled>true</isEnabled>
+    <isOauthPluginEnabled>false</isOauthPluginEnabled>
+    <label>QA_ECA_No_OAuth_plcy</label>
+    <startPage>None</startPage>
+</ExtlClntAppConfigurablePolicies>

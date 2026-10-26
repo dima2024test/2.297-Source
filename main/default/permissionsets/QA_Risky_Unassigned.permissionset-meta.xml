@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>LOG-2967 QA: Data Export, Manage Sharing, Edit Readonly Fields - intentionally unassigned</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>QA Risky Unassigned</label>
+</PermissionSet>
