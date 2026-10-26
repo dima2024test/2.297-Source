@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <commaSeparatedOauthScopes>Api, Web, Full, Chatter, CustomApplications, RefreshToken, OpenID, CustomPermissions, Wave, Lightning, Content, SFApiPlatform, CDP, EinsteinGPT, MCP</commaSeparatedOauthScopes>
+    <externalClientApplication>QA_ECA_Self_Authorize_Many_Scopes</externalClientApplication>
+    <isFirstPartyAppEnabled>false</isFirstPartyAppEnabled>
+    <label>QA_ECA_Self_Authorize_Many_Scopes_oauth</label>
+    <oauthLink>00DWs00000UP8if:888Ws0000021ho9</oauthLink>
+</ExtlClntAppOauthSettings>

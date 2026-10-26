@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>LOG-2967 QA: pre-authorizes QA ECAs/Connected Apps (no risky perms)</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>QA ECA Access</label>
+</PermissionSet>

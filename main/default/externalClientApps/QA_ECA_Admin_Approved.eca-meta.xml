@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>dmitry@paladinsolutions.io</contactEmail>
+    <description>LOG-2967 QA: admin-approved, pre-authorized via permsethttps://login.salesforce.com/services/oauth2/successhttps://login.salesforce.com/services/oauth2/success</description>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>QA ECA Admin Approved</label>
+    <orgScopedExternalApp>00DWs00000UP8if:QA_ECA_Admin_Approved</orgScopedExternalApp>
+</ExternalClientApplication>
